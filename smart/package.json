@@ -1,0 +1,23 @@
+{
+  "name"           : "smart-parser",
+  "version"        : "0.0.0",
+  "description"    : "A utility to generate keywords for password cracking from available information online",
+  "main"           : "app.js",
+  "author"         : "John Hofrichter",
+  "license"        : "BSD",
+  "readmeFilename" : "README.md",
+  "gitHead"        : "81fa7380ba09305a9e1b79bd51e99fdd107ff8a9",
+  "repository"     : {
+    "type" : "git",
+    "url"  : "git://github.com/johnhof/SmartForce-Server.git"
+  },
+  "bugs"           : {
+    "url": "https://github.com/johnhof/SmartForce-Server/issues"
+  },
+  "dependencies"   : {
+    "request"   : "~2.34.0",
+    "cheerio"   : "~0.13.1",
+    "commander" : "~2.1.0",
+    "async"     : "~0.2.10"
+  }
+}

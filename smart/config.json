@@ -1,0 +1,11 @@
+{
+  "targets" : [
+    "John Hofrichter"
+  ],
+  "singleTarget" : {
+    "first"       : "John",
+    "middle"      : "Matthew",
+    "last"        : "Hofrichter",
+    "targetLinks" : [] 
+  } 
+}
